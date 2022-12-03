@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da3a0ae2_4a84b4e5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-12-03T16:54:38Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_packages_modules_Connectivity/+/344889",
+      "revId": "b24aea12c856fc8db2db8915a48484d9a9242d4e",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
